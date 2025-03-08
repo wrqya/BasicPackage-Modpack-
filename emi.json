@@ -1,0 +1,670 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:glowstone_dust",
+        "amount": 17
+      }
+    },
+    {
+      "stack": "item:minecraft:shield"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:rotten_flesh",
+        "amount": 5
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:coal",
+        "amount": 16
+      }
+    },
+    {
+      "stack": "item:minecraft:oak_planks"
+    },
+    {
+      "stack": "item:minecraft:bone"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:poppy",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:iron_ingot",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}"
+    },
+    {
+      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":4}}}"
+    },
+    {
+      "stack": "item:minecraft:oak_boat"
+    },
+    {
+      "stack": "item:minecraft:leather"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:honeycomb",
+        "amount": 13
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:breeze_rod",
+        "amount": 11
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:jungle_leaves",
+        "amount": 7
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:packed_ice",
+        "amount": 36
+      }
+    },
+    {
+      "stack": "item:minecraft:birch_sapling"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:honey_bottle",
+        "amount": 2
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:flint",
+        "amount": 3
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:diamond",
+        "amount": 6
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:green_dye",
+        "amount": 2
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:cobblestone",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:yellow_dye",
+        "amount": 3
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:detector_rail",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:bookshelf"
+    },
+    {
+      "stack": "item:minecraft:blaze_powder"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:phantom_membrane",
+        "amount": 5
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:dirt",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:iron_helmet"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:grass_block",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:stick",
+        "amount": 2
+      }
+    },
+    {
+      "stack": "item:minecraft:armadillo_scute"
+    },
+    {
+      "stack": "item:minecraft:white_bed"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:blaze_rod",
+        "amount": 4
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:brick",
+        "amount": 15
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:emerald",
+        "amount": 44
+      }
+    },
+    {
+      "stack": "item:minecraft:azure_bluet"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:gravel",
+        "amount": 10
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:smooth_stone",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:shulker_box{\"minecraft:container\":[{item:{components:{\"minecraft:custom_name\":\u0027\"样本\"\u0027},count:1,id:\"minecraft:yellow_concrete\"},slot:0}],\"minecraft:lore\":[\u0027\"(+NBT)\"\u0027]}"
+    },
+    {
+      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}"
+    },
+    {
+      "stack": "item:minecraft:chest_minecart"
+    },
+    {
+      "stack": "item:minecraft:sticky_piston"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:powered_rail",
+        "amount": 8
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:end_stone_bricks",
+        "amount": 56
+      }
+    },
+    {
+      "stack": "item:minecraft:wheat_seeds"
+    },
+    {
+      "stack": "item:minecraft:netherite_sword{\"minecraft:enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+      "recipe": "emi:/anvil/enchanting/minecraft/netherite_sword/minecraft/sharpness/5"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:string",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:yellow_shulker_box{\"minecraft:container\":[{item:{count:64,id:\"minecraft:shulker_shell\"},slot:0},{item:{count:64,id:\"minecraft:shulker_shell\"},slot:1},{item:{count:64,id:\"minecraft:shulker_shell\"},slot:2},{item:{count:64,id:\"minecraft:stone_bricks\"},slot:5},{item:{count:64,id:\"minecraft:stone_bricks\"},slot:6},{item:{count:64,id:\"minecraft:stone_bricks\"},slot:7},{item:{count:64,id:\"minecraft:glass\"},slot:8},{item:{count:64,id:\"minecraft:glass\"},slot:9},{item:{count:64,id:\"minecraft:stone\"},slot:10},{item:{count:64,id:\"minecraft:sugar\"},slot:11},{item:{count:64,id:\"minecraft:iron_ingot\"},slot:12},{item:{count:64,id:\"minecraft:spider_eye\"},slot:13},{item:{count:24,id:\"minecraft:grass_block\"},slot:15},{item:{count:16,id:\"minecraft:coal\"},slot:16},{item:{count:15,id:\"minecraft:blaze_rod\"},slot:17},{item:{count:5,id:\"minecraft:book\"},slot:18},{item:{count:4,id:\"minecraft:birch_planks\"},slot:19},{item:{count:4,id:\"minecraft:ink_sac\"},slot:20},{item:{count:4,id:\"minecraft:oak_planks\"},slot:21},{item:{count:3,id:\"minecraft:phantom_membrane\"},slot:22},{item:{count:2,id:\"minecraft:gunpowder\"},slot:23},{item:{count:2,id:\"minecraft:dirt\"},slot:24}]}"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:slime_ball",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:gunpowder",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:firework_star{\"minecraft:firework_explosion\":{colors:[I;12801229],has_trail:1b,has_twinkle:1b,shape:\"large_ball\"}}",
+      "recipe": "minecraft:firework_star"
+    },
+    {
+      "stack": "item:minecraft:furnace"
+    },
+    {
+      "stack": "item:minecraft:barrel"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:arrow",
+        "amount": 64
+      }
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:composter",
+    "item:minecraft:firework_star",
+    "item:minecraft:armadillo_scute",
+    "item:minecraft:wolf_armor",
+    "item:minecraft:stonecutter",
+    "item:minecraft:chain",
+    {
+      "type": "item",
+      "id": "minecraft:netherite_upgrade_smithing_template",
+      "amount": 2
+    },
+    "item:minecraft:dark_oak_door",
+    "item:minecraft:sentry_armor_trim_smithing_template",
+    "item:minecraft:blue_dye",
+    "item:minecraft:cyan_dye",
+    "item:minecraft:green_dye",
+    "item:minecraft:lime_dye",
+    "item:minecraft:yellow_dye",
+    "item:minecraft:orange_dye",
+    "item:minecraft:red_dye",
+    "item:minecraft:brown_dye",
+    "item:minecraft:black_dye",
+    "item:minecraft:gray_dye",
+    "item:minecraft:light_gray_dye",
+    "item:minecraft:repeater",
+    "item:minecraft:stone_slab",
+    "item:minecraft:jungle_pressure_plate",
+    {
+      "type": "item",
+      "id": "minecraft:turtle_scute",
+      "amount": 64
+    },
+    "item:minecraft:popped_chorus_fruit",
+    "item:minecraft:end_rod",
+    "item:minecraft:netherite_hoe",
+    "item:minecraft:netherite_sword{\"minecraft:enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+    "item:minecraft:spider_eye",
+    "item:minecraft:redstone_lamp",
+    {
+      "type": "item",
+      "id": "minecraft:end_stone_bricks",
+      "amount": 56
+    },
+    "item:minecraft:spire_armor_trim_smithing_template",
+    "item:minecraft:tripwire_hook",
+    "item:minecraft:comparator",
+    "item:minecraft:brewing_stand",
+    "item:minecraft:item_frame",
+    "item:minecraft:turtle_helmet",
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 4
+    },
+    "item:minecraft:hay_block",
+    "item:minecraft:target",
+    "item:minecraft:writable_book",
+    "item:minecraft:shield",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":4}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":2}}}",
+    {
+      "type": "item",
+      "id": "minecraft:magma_cream",
+      "amount": 21
+    },
+    "item:minecraft:cherry_slab",
+    {
+      "type": "item",
+      "id": "minecraft:nether_star",
+      "amount": 28
+    },
+    "item:minecraft:beacon",
+    "item:minecraft:observer",
+    "item:minecraft:bow",
+    {
+      "type": "item",
+      "id": "minecraft:redstone_torch",
+      "amount": 64
+    },
+    "item:minecraft:piston",
+    "item:minecraft:redstone_block",
+    "item:minecraft:dispenser",
+    "item:minecraft:dropper",
+    "item:minecraft:rooted_dirt",
+    "#item:minecraft:hoes",
+    "item:minecraft:carved_pumpkin",
+    "item:minecraft:pumpkin",
+    "item:minecraft:cyan_carpet",
+    "item:minecraft:firework_rocket{\"minecraft:fireworks\":{flight_duration:3b}}",
+    "item:minecraft:rotten_flesh",
+    "item:minecraft:tnt",
+    "item:minecraft:soul_campfire",
+    "item:minecraft:campfire",
+    "item:minecraft:glowstone",
+    "item:minecraft:detector_rail",
+    "item:minecraft:daylight_detector",
+    "item:minecraft:yellow_stained_glass",
+    "item:minecraft:white_dye",
+    "item:minecraft:terracotta",
+    "item:minecraft:lime_terracotta",
+    "item:minecraft:lime_glazed_terracotta",
+    {
+      "type": "item",
+      "id": "minecraft:ladder",
+      "amount": 3
+    },
+    "item:minecraft:powered_rail",
+    "item:minecraft:grindstone",
+    "item:minecraft:bookshelf",
+    "item:minecraft:book",
+    "item:minecraft:paper",
+    "item:minecraft:stone",
+    "#item:minecraft:planks",
+    "item:minecraft:barrel",
+    "#item:minecraft:wooden_slabs",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:invisibility\"}}",
+    "item:minecraft:diamond_boots",
+    "item:minecraft:golden_sword",
+    "item:minecraft:netherite_ingot",
+    "item:minecraft:chainmail_leggings",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:water_breathing\"}}",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:strong_leaping\"}}",
+    "item:minecraft:golden_boots",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:slowness\"}}",
+    "item:minecraft:cod",
+    "item:minecraft:apple",
+    "item:minecraft:tipped_arrow{\"minecraft:potion_contents\":{potion:\"minecraft:wind_charged\"}}",
+    "item:minecraft:baked_potato",
+    "item:minecraft:stone_brick_stairs",
+    "item:minecraft:cobblestone",
+    "item:minecraft:andesite_stairs",
+    "item:minecraft:bamboo_fence",
+    "item:minecraft:stripped_dark_oak_wood",
+    "item:minecraft:stripped_bamboo_block",
+    "item:minecraft:stripped_cherry_log",
+    "item:minecraft:granite_wall",
+    "item:minecraft:diorite",
+    "item:minecraft:mossy_cobblestone",
+    "item:minecraft:mangrove_wood",
+    "item:minecraft:cherry_pressure_plate",
+    "item:minecraft:mangrove_pressure_plate",
+    "item:minecraft:dark_oak_stairs",
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 7
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bread",
+      "amount": 2
+    },
+    "item:minecraft:dark_oak_button",
+    "item:minecraft:cherry_button",
+    "item:minecraft:mangrove_fence_gate",
+    "item:minecraft:mangrove_trapdoor",
+    "item:minecraft:mangrove_button",
+    "item:minecraft:stripped_acacia_wood",
+    "item:minecraft:stripped_dark_oak_log",
+    "item:minecraft:bamboo_door",
+    "item:minecraft:dark_oak_log",
+    "item:minecraft:spruce_trapdoor"
+  ],
+  "craft_history": [
+    "minecraft:blaze_powder",
+    "minecraft:oak_boat",
+    "minecraft:crafting_table",
+    "minecraft:flint_and_steel",
+    "minecraft:oak_planks",
+    "minecraft:bucket",
+    "minecraft:minecart",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:white_wool_from_string",
+    "minecraft:smithing_table",
+    "minecraft:chest",
+    "minecraft:blast_furnace",
+    "minecraft:furnace",
+    "minecraft:white_bed",
+    "minecraft:barrel",
+    "minecraft:oak_slab",
+    "minecraft:iron_shovel",
+    "minecraft:stick",
+    "minecraft:iron_axe",
+    "minecraft:stone_axe",
+    "minecraft:composter",
+    "minecraft:lever",
+    "minecraft:shears",
+    "minecraft:ladder",
+    "minecraft:oak_trapdoor",
+    "minecraft:iron_pickaxe",
+    "minecraft:stone_shovel",
+    "minecraft:tripwire_hook",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:bread",
+    "minecraft:wheat",
+    "minecraft:stone_hoe",
+    "minecraft:firework_star_fade",
+    "minecraft:bricks",
+    "minecraft:iron_hoe",
+    "minecraft:iron_nugget",
+    "minecraft:torch",
+    "minecraft:chain",
+    "minecraft:oak_fence_gate",
+    "minecraft:oak_sign",
+    "minecraft:hopper",
+    "minecraft:cherry_slab",
+    "minecraft:shield",
+    "minecraft:snow_block",
+    "minecraft:shulker_box",
+    "minecraft:birch_planks",
+    "minecraft:jungle_planks",
+    "minecraft:bow",
+    "minecraft:netherite_ingot",
+    "minecraft:gold_nugget",
+    "minecraft:golden_carrot",
+    "minecraft:tnt",
+    "minecraft:sandstone",
+    "minecraft:netherite_upgrade_smithing_template",
+    "minecraft:blue_dye",
+    "minecraft:light_blue_dye_from_blue_white_dye",
+    "minecraft:white_dye",
+    "emi:/crafting/shulker_box_dying/minecraft/white_dye",
+    "emi:/crafting/shulker_box_dying/minecraft/red_dye",
+    "minecraft:red_dye_from_poppy",
+    "minecraft:pink_dye_from_red_white_dye",
+    "minecraft:bone_meal",
+    "minecraft:orange_dye_from_red_yellow",
+    "minecraft:yellow_dye_from_dandelion",
+    "minecraft:light_gray_dye_from_oxeye_daisy",
+    "minecraft:gold_ingot_from_gold_block",
+    "minecraft:firework_rocket",
+    "minecraft:firework_rocket_simple",
+    "minecraft:paper",
+    "minecraft:anvil",
+    "minecraft:iron_block",
+    "minecraft:repeater",
+    "minecraft:redstone_torch",
+    "minecraft:turtle_helmet",
+    "minecraft:sugar_from_sugar_cane",
+    "minecraft:wooden_axe",
+    "minecraft:oak_button",
+    "minecraft:spruce_button",
+    "minecraft:acacia_button",
+    "minecraft:dye_pink_carpet",
+    "minecraft:dye_red_carpet",
+    "minecraft:glass_bottle",
+    "minecraft:stone_bricks",
+    "minecraft:redstone",
+    "minecraft:comparator",
+    "minecraft:stone_button",
+    "minecraft:note_block",
+    "minecraft:item_frame",
+    "minecraft:redstone_lamp",
+    "minecraft:glowstone",
+    "minecraft:iron_trapdoor",
+    "minecraft:dispenser",
+    "minecraft:sticky_piston",
+    "minecraft:slime_ball",
+    "minecraft:cauldron",
+    "minecraft:target",
+    "minecraft:hay_block",
+    "minecraft:iron_ingot_from_iron_block",
+    "minecraft:brewing_stand",
+    "minecraft:redstone_block",
+    "minecraft:dropper",
+    "minecraft:glass_pane",
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_planks",
+    "minecraft:stone_brick_stairs",
+    "minecraft:writable_book",
+    "minecraft:lectern",
+    "minecraft:bookshelf",
+    "emi:/crafting/shulker_box_dying/minecraft/pink_dye",
+    "minecraft:diamond_chestplate",
+    "minecraft:beacon",
+    "minecraft:golden_apple",
+    "minecraft:smooth_stone_slab",
+    "minecraft:observer",
+    "minecraft:spruce_slab",
+    "minecraft:end_stone_brick_slab",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:end_stone_bricks",
+    "minecraft:stone_sword",
+    "minecraft:iron_door",
+    "minecraft:gold_ingot_from_nuggets",
+    "minecraft:slime_block",
+    "minecraft:white_stained_glass",
+    "minecraft:scaffolding",
+    "minecraft:lantern",
+    "minecraft:piston",
+    "minecraft:birch_sign",
+    "minecraft:spruce_pressure_plate",
+    "minecraft:stone_pressure_plate",
+    "minecraft:birch_door",
+    "minecraft:honey_block",
+    "minecraft:polished_deepslate_stairs",
+    "minecraft:polished_deepslate_wall",
+    "minecraft:polished_deepslate",
+    "minecraft:cherry_fence",
+    "minecraft:cherry_planks",
+    "minecraft:stone_brick_wall",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:white_stained_glass_pane",
+    "minecraft:white_terracotta",
+    "minecraft:stone_brick_slab",
+    "minecraft:acacia_planks",
+    "minecraft:firework_star",
+    "minecraft:diamond_hoe",
+    "minecraft:dark_oak_planks",
+    "minecraft:spruce_sign",
+    "minecraft:birch_button",
+    "minecraft:soul_campfire",
+    "minecraft:iron_sword",
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:quartz_block",
+    "minecraft:hopper_minecart",
+    "minecraft:birch_boat",
+    "minecraft:green_stained_glass",
+    "minecraft:chest_minecart",
+    "minecraft:birch_fence_gate",
+    "minecraft:detector_rail",
+    "minecraft:lime_stained_glass_pane",
+    "minecraft:yellow_stained_glass_pane",
+    "minecraft:yellow_stained_glass",
+    "minecraft:green_stained_glass_pane",
+    "minecraft:lime_stained_glass",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:lime_terracotta",
+    "minecraft:lime_dye",
+    "minecraft:jungle_trapdoor",
+    "minecraft:gold_block",
+    "minecraft:emerald",
+    "minecraft:oak_door",
+    "minecraft:grindstone",
+    "minecraft:stone_slab",
+    "minecraft:loom",
+    "minecraft:birch_trapdoor",
+    "minecraft:birch_wood",
+    "minecraft:ender_eye",
+    "minecraft:bone_meal_from_bone_block",
+    "minecraft:bowl",
+    "minecraft:jungle_slab",
+    "minecraft:book",
+    "minecraft:white_carpet",
+    "minecraft:stonecutter",
+    "minecraft:powered_rail",
+    "minecraft:rail",
+    "minecraft:campfire",
+    "minecraft:diamond_pickaxe",
+    "minecraft:melon",
+    "minecraft:acacia_trapdoor",
+    "minecraft:acacia_boat",
+    "minecraft:acacia_sign",
+    "minecraft:acacia_fence_gate",
+    "minecraft:emerald_block",
+    "minecraft:acacia_slab",
+    "minecraft:leather_helmet"
+  ],
+  "recipe_defaults": {
+    "added": [
+      "minecraft:shield"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
